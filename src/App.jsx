@@ -19,6 +19,7 @@ function App() {
       <Services/>
       <Projects />
       <Contact />
+      
     </div>
   );
 }
