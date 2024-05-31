@@ -652,7 +652,7 @@ section{
 }
 .layer p{
     color: #000;
-    font-size: 20px;
+    font-size: 12px;
     line-height: 1.8;
 }
 .layer i{
@@ -855,6 +855,7 @@ section{
   max-width: 600px;
   display: flex;
   flex-direction: column;
+  text-align: center;
   align-items: center;
   justify-content: center;
 }
@@ -1060,10 +1061,11 @@ justify-content: center;
 .contact{
   display: flex;
   flex-direction: column;
+  text-align: center;
   align-items: center;
   justify-content: center;
   gap: 3rem;
-  margin-top: 120px;
+  margin-top: 180px;
   padding-left: -30px;
   padding-right: -130px;
 }
@@ -1103,5 +1105,17 @@ justify-content: center;
 }
 .contact-form form{
  width: 100%;
+}
+.contact-form form input,form textarea{
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: -18px;
+  background: #555557;
+  color: #000;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
 }
 }
