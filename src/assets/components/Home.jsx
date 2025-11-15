@@ -14,7 +14,7 @@ const Home = () => {
 
   useEffect(() => {
     const options = {
-      strings: ['Frontend Web Developer.', 'Web Designer.', 'Web Developer.'],
+      strings: ['Python Full Stack Developer.', 'Django & Flask Developer.', 'React.js Developer.'],
       typeSpeed: 100,
       backSpeed: 100,
       backDelay: 1000,
@@ -38,8 +38,8 @@ const Home = () => {
         <h3>Hello, It's Me</h3>
         <h1>Santhosh Dhamotharan</h1>
         <h3>And I'm a <span className="text" ref={typedElement}></span></h3>
-        <p>I'm a web developer with extensive experience for over 2 years.
-          <br />Expertise is to create and design websites, frontend design, and much more...</p>
+        <p>Python Full Stack Developer skilled in Django, Flask, React.js, REST APIs, and SQL.
+          <br />Experienced in building responsive UI, backend automation, and optimizing performance with end-to-end web application development.</p>
         <div className="home-sci">
           <a href="mailto:santhoshdhamotharan333@gamil.com"><MdEmail style={{ '--i': 10 }} /></a>
           <a href="https://www.linkedin.com/in/santhoshdhamu03/"><FaLinkedin style={{ '--i': 8 }} /></a>

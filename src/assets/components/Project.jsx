@@ -13,24 +13,24 @@ const Projects = () => {
           <div className="row">
             <img src={secimg} alt="Project 1" />
             <div className="layer">
-              <h5>UI/UX Design</h5>
-              <p>We create custom, responsive websites that reflect your brand's unique identity. Our stunning, functional designs ensure engaging user experiences and drive conversions. Using the latest technologies, we build websites optimized for performance and accessibility across all devices. </p>
+              <h5>Eye Care Optics Admin Web App</h5>
+              <p>Developed CRM using React, Flask, and SQLite for managing customers, dealers, stock, and billing. Features include reminders for feedback and check-ups, data export to Excel/PDF, daily auto Google Drive backup, and WhatsApp auto-message integration for appointment follow-ups.</p>
               <a href="#"><i className='bx bx-link-external'></i></a>
             </div>
           </div>
           <div className="row">
             <img src={Firstimg} alt="Project 2" />
             <div className="layer">
-              <h5>UI/UX Design</h5>
-              <p>We design intuitive, visually appealing interfaces that enhance user satisfaction. Prioritizing user needs, we ensure seamless interactions through thorough research, prototyping, and testing. Let us help you deliver exceptional experiences across all devices.</p>
+              <h5>School Discipline Tracking System</h5>
+              <p>Built a QR-based system using React, Flask, and SQLite to track and log real-time student discipline events. Features include severity level assignments, admin dashboard for viewing student history and reports, and mobile-friendly UI for efficient teacher-side usage.</p>
               <a href="#"><i className='bx bx-link-external'></i></a>
             </div>
           </div>
           <div className="row">
             <img src={therdimg } alt="Project 3" />
             <div className="layer">
-              <h5>UI/UX Design</h5>
-              <p>Description: We create visually striking designs that effectively communicate your brand's message. From logos to marketing materials, our designs leave a lasting impression. Combining creativity with strategic thinking, we ensure every element serves its purpose.</p>
+              <h5>Vi-Tec Solutions Company Website</h5>
+              <p>Developed the official website for Vi-Tec Solutions & Academy using HTML, CSS, and React with responsive UI. Created sections for mission, courses, trainers, contact, and registration forms. Ensured SEO readiness and mobile-first design for better online presence.</p>
               <a href="#"><i className='bx bx-link-external'></i></a>
             </div>
           </div>

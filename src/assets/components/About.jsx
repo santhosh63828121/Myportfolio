@@ -10,14 +10,14 @@ const About = () => {
       </div>
       <div className="about-text">
         <h2>About<span>Me</span></h2>
-        <h4>Frontend Developer</h4>
-        <p>Hello! I'm Santhosh, a passionate and detail-oriented Frontend Web Developer with a strong foundation in web design.
-          With over 2 years of hands-on experience, I have honed my skills in creating visually appealing and user-friendly websites.
-          My journey began with a fascination for blending creativity with technology, and it has evolved into a career where I strive
-          to bring ideas to life through elegant and responsive designs. Proficient in HTML, CSS, and JavaScript, I specialize in crafting
-          dynamic and interactive user interfaces. A keen eye for aesthetics coupled with a solid understanding of design principles, I excel
-          in creating visually stunning layouts and graphics. Adept at crafting user-centric designs, I focus on creating interfaces that
-          prioritize usability and enhance the overall user experience.</p>
+        <h4>Python Full Stack Developer</h4>
+        <p>Hello! I'm Santhosh, a passionate Python Full Stack Developer with expertise in Django, Flask, React.js, and REST APIs.
+          With hands-on experience in end-to-end web application development, I specialize in building responsive UI, backend automation,
+          and optimizing performance. My journey includes working at PRM Roadways Pvt Ltd as an Online Executive, where I developed Python
+          automation scripts for logistics data validation, and interning at Uniq Technologies, where I built full-stack applications with
+          integrated API workflows. I have strong problem-solving skills and experience in real-time applications, debugging, and workflow
+          automation. Proficient in Python, JavaScript, SQL databases (MySQL, SQLite), and modern web technologies, I focus on delivering
+          production-ready features with clean, maintainable code and excellent user experiences.</p>
         <a href="#" className="btn-box">More About Me</a>
       </div>
     </section>

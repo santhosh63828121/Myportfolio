@@ -406,11 +406,19 @@ section{
   }
   
   .progress-line.python span {
-    width: 50%;
+    width: 85%;
   }
-  
+
   .progress-line.react span {
-    width: 60%;
+    width: 80%;
+  }
+
+  .progress-line.django span {
+    width: 75%;
+  }
+
+  .progress-line.mysql span {
+    width: 70%;
   }
   
   .progress-line span::after {
@@ -439,11 +447,19 @@ section{
   }
   
   .progress-line.python span::after {
-    content: "50%";
+    content: "85%";
   }
-  
+
   .progress-line.react span::after {
-    content: "60%";
+    content: "80%";
+  }
+
+  .progress-line.django span::after {
+    content: "75%";
+  }
+
+  .progress-line.mysql span::after {
+    content: "70%";
   }
   
   .progress-line span::before {

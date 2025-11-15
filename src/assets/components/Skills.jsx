@@ -56,6 +56,24 @@ const Skills = () => {
                 <span></span>
               </div>
             </div>
+            <div className="bar">
+              <i className='bx bxl-django' style={{ color: '#0c4b33' }}></i>
+              <div className="info">
+                <span>Django</span>
+              </div>
+              <div className="progress-line django">
+                <span></span>
+              </div>
+            </div>
+            <div className="bar">
+              <i className='bx bx-data' style={{ color: '#00758f' }}></i>
+              <div className="info">
+                <span>MySQL</span>
+              </div>
+              <div className="progress-line mysql">
+                <span></span>
+              </div>
+            </div>
           </div>
         </div>
 
